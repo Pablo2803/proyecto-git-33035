@@ -1,0 +1,40 @@
+header {
+  background-color: #0d1b2a;
+}
+.text-h {
+  font-family: "Nabla", cursive;
+}
+
+nav {
+  font-family: "Oswald", sans-serif;
+}
+/* Footer */
+.bg-color {
+  background-color: #0d1b2a;
+}
+footer {
+  color: aliceblue;
+  font-family: "Dangrek", cursive;
+}
+
+.text-oswald {
+  font-family: "Oswald", sans-serif;
+  color: black;
+}
+.venta {
+    background-color: white;
+}
+.img-ventas {
+    width: 250px;
+    height: 200px;
+    padding-left: 25px;
+}
+
+.backg {
+    background-color: aqua;
+}
+.bgc {
+    background-color: khaki;
+}
+
+
